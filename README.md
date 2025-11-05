@@ -1,6 +1,6 @@
 <!-- 🌌 Cool Dark Developer Profile README -->
 
-<h1 align="center">👋 Hey, I'm <b>Hoang Chieu</b></h1>
+<h1 align="center">👋 Hey, I'm <b>KyzoHoang</b></h1>
 
 <p align="center">
   🚀 <b>Mobile & Web Developer</b> <br/>
@@ -52,19 +52,6 @@ I love combining design, performance, and scalability to build great products.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangchieu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🔥 Streak & Contributions
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hoangchieu&theme=tokyonight&hide_border=true&border_radius=6" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/hoangchieu/hoangchieu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### 🌍 Connect With Me
 <p align="center">
